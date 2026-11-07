@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Outfit:wght@100..900&display=swap');
+
+body {
+  background-color: #1188ff;
+  text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6, a, p, button {
+  color: #FFFFFF;
+  font-family: Outfit;
+}
+
+hr {
+  color: #FFFFFF;
+  background-color: #FFFFFF;
+  height: 4px;
+}
